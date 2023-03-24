@@ -238,7 +238,7 @@ When you change one object, you change all of them.
 </details>
 
 ---
-
+hello guys
 ###### 7. What's the output?
 
 ```javascript
